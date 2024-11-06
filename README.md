@@ -1,8 +1,6 @@
-- 👋 Hi, I'm red team rookie 
-- 👀 Currently doing my time in bootcamps
-- 🌱 Mastering Bash Linux and it's entirety 
-- 💞️ I'm the thief you set to catch a thief 
-- 📫 Setting off slowly 
+Whoami = Cyber security enthusiast with unquenchable programming and AI curiosities.")
+Goal =< python developer | ethical hacker| Pentester| bug bounty. 
+print (f" Whoami, Goal, {So Help me God}")
 
 <!---
 Stephennevy/Stephennevy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

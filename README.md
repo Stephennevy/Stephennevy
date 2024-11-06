@@ -1,5 +1,7 @@
 Whoami = Cyber security enthusiast with unquenchable programming and AI curiosities.")
+
 Goal =< python developer | ethical hacker| Pentester| bug bounty. 
+
 print (f" Whoami, Goal, {So Help me God}")
 
 <!---
